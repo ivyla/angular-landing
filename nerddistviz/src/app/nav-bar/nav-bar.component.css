@@ -1,0 +1,17 @@
+#schwabLogo {
+  width: 90px;
+  height: 90px;
+}
+
+.navbarTop {
+  display: inline-block;
+  width: 100vw;
+  background-color: #3e4f5c;
+  color: white;
+}
+
+.navbarBottom {
+  width: 100vw;
+  background-color: #2e3a46;
+  color: white;
+}
