@@ -1,0 +1,10 @@
+/////////// Main Palette ///////////
+Schwab Color: #1C96C8
+Header on white: #6E7A83
+
+/////////// Navbar ///////////
+Top base: #3E4F5C
+Bottom base: #2E3A46
+Navbar Selected: #00A0DF
+
+
