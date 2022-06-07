@@ -1,6 +1,8 @@
 #schwabLogo {
   width: 90px;
   height: 90px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .navbarTop {
@@ -8,10 +10,56 @@
   width: 100vw;
   background-color: #3e4f5c;
   color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.navbarHeading {
+  display: inline;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.navbarHeading p {
+  display: inline;
 }
 
 .navbarBottom {
   width: 100vw;
+  height: 8vmin;
+  /* line-height: 8vmin; */
   background-color: #2e3a46;
   color: white;
+  padding-left: 80px;
+  padding-right: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+/* .linkStyle a {
+  margin-right: 50px;
+} */
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: bold;
+}
+
+a:hover {
+  text-decoration: underline;
 }
